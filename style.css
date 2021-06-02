@@ -38,7 +38,6 @@ section {
     width: 80%;
     margin-bottom: 30px;
     padding: 40px;
-    opacity: 0.8;
 }
 .logo {
     object-fit: cover;
@@ -62,7 +61,6 @@ img {
     
 }
 .bloc:hover {
-    opacity: 1;
     transform: scale(1.1);
     transition: all 300ms ease-in-out;
 }
