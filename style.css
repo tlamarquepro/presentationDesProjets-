@@ -5,7 +5,7 @@ a {
 body {
     width: 100%;
     height: 100%;
-    background: linear-gradient(to bottom right, rgb(253, 231, 190), rgb(219, 153, 53));
+    background: linear-gradient(to bottom right, rgb(253, 249, 240), rgb(255, 233, 200));
 }
 header {
     display: flex;
